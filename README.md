@@ -92,3 +92,16 @@ asmlinkage void sys_solve2(unsigned long addr){
 ```  
 **因為0xc0400000 後是用4M mapping 所以只轉換到pmd**
 ![image](https://github.com/fallantbell/NCU-linux-project1/blob/main/aaa.png)  
+
+## CODE  
+![image](https://github.com/fallantbell/NCU-linux-project1/blob/main/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202021-02-17%20115928.png)  
+
+## 結果
+![image](https://github.com/fallantbell/NCU-linux-project1/blob/main/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202021-02-17%20120000.png)  
+
+![image](https://github.com/fallantbell/NCU-linux-project1/blob/main/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202021-02-17%20115901.png)  
+
+![image](https://github.com/fallantbell/NCU-linux-project1/blob/main/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202021-02-17%20120023.png)  
+
+![image](https://github.com/fallantbell/NCU-linux-project1/blob/main/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202021-02-17%20120053.png)  
+
